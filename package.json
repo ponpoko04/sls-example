@@ -1,0 +1,24 @@
+{
+  "name": "aws-rest-with-dynamodb",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.188.0",
+    "moment": "^2.20.1",
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "0.0.31",
+    "@types/node": "^9.4.0",
+    "@types/uuid": "^3.4.3",
+    "@types/webpack": "^3.8.4",
+    "@types/webpack-node-externals": "^1.6.1",
+    "serverless-webpack": "^4.2.0",
+    "ts-loader": "^3.4.0",
+    "typescript": "^2.7.1",
+    "webpack": "^3.10.0",
+    "webpack-node-externals": "^1.6.0"
+  }
+}
